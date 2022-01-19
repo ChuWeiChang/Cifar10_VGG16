@@ -5,7 +5,7 @@ Created on Thu Nov 25 16:05:37 2021
 @author: duked
 """
 
-from PyQt5 import QtWidgets, QtGui, QtCore
+from PyQt5 import QtWidgets
 from UI2 import Ui_MainWindow
 import cv2
 import numpy as np
