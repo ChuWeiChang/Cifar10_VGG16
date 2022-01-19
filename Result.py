@@ -67,8 +67,8 @@ class MainWindow(QtWidgets.QMainWindow):
     def B3(self):
         self.model.summary()
     def B4(self):
-        img1 = mpimg.imread('./accuracy.png')
-        img2 = mpimg.imread('./loss.png')
+        img1 = mpimg.imread('./loss and accuracy/accuracy.png')
+        img2 = mpimg.imread('./loss and accuracy/loss.png')
         plt.figure()
         plt.subplot(2,1,1).imshow(img1)
         plt.axis("off")
