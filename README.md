@@ -1,4 +1,5 @@
-# Cifar10_VGG16
+# Cifar10_VGG16  
+![image](https://user-images.githubusercontent.com/39853288/150089079-99656a52-5f35-4822-9409-ca7a749f1d02.png)
 ## Objective
 * Learn to construct a VGG16 model and implement using Cifar-10 image set
 
